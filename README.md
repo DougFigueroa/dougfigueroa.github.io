@@ -1,3 +1,4 @@
+# Douglas Figueroa
 # Professional Summary:
 Highly driven data engineer, AWS certified solutions architect and certified developer with +5 years of experience with data, cloud and DB technologies like Python, Spark, SQL, PL/SQL and great variety of AWS cloud services, as well as some Azure cloud services, while implementing CI/CD.
 
