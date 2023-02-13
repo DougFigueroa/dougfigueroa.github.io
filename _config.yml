@@ -2,4 +2,4 @@ remote_theme: pages-themes/tactile@v0.2.0
 plugins:
 - jekyll-remote-them
 title: Douglas Figueroa
-description: Douglas's professional site
+description: Data engineer, AWS Certified Solutions Architect, Python and SQL dev.

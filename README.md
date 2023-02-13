@@ -1,1 +1,1 @@
-Work with Douglas Figueroa 
+Contact informartion and other sites:
