@@ -52,12 +52,11 @@ Also, a passionate developer that loves to solve problems through code. Seeking 
 - Scrum Foundation Professional.
 - Microsoft Technology Associate, Web Development Fundamentals.
 
-![aws saa certified badge](resume_objects/aws-certified-solutions-architect-associate.png)
-![aws da certified badge](resume_objects/aws-certified-developer-associate.png)
+![aws saa certified badge](resume_objects/aws-certified-solutions-architect-associate.png) ![aws da certified badge](resume_objects/aws-certified-developer-associate.png) ![scrum professional](resume_objects/scrum-foundation-professional-certificate-sfpc.1.png)
 
 # Education:
-Information systems engineer
-University of El Salvador. 2012 - 2018
+**Information systems engineer**
+*University of El Salvador. 2012 - 2018*
 
 # Languages:
 - English
