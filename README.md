@@ -44,7 +44,7 @@ Also, a passionate developer that loves to solve problems through code. Seeking 
     Development and implementation of solutions, using SQL, PL/SQL and Java, to provide users with the ability of generate meaningful reports.
 - ### Developer
     ##### at Supreme Court of Justice, El Salvador *(Feb 2015 - Aug 2015)*
-    Development of the case tracking system for the Criminal Chamber, meeting the objective of speed up and give order to the process that has been always done in a manual manner, improving the cases processsing times. Done using PHP, Javascript and MySQL
+    Development of the case tracking system for the Criminal Chamber, meeting the objective of speed up and give order to the process that has been always done in a manual manner, improving the cases processsing times. Done using PHP, JavaScript and MySQL
 
 # Certifications
 - AWS Certified Solutions Architect Associate.
