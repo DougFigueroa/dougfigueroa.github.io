@@ -1,7 +1,7 @@
 ![laptop icon](resume_objects/icons8-laptop-coding-50.png)[Email](mailto:douglasr.figueroa@gmail.com?subject=Job%20offer) / [LinkedIn](https://www.linkedin.com/in/douglasfigueroa/) / [GitHub](https://github.com/DougFigueroa) / [Stackoverflow](https://stackoverflow.com/users/6840517/douglas-figueroa) / [Technical Blog](https://dougf.hashnode.dev/)
 
 # Professional Summary:
-Highly driven data engineer, AWS certified solutions architect and certified developer with +6 years of experience creating, implementing and improving data solutions across organizations to have clean data ready for decision making and operational systems in a timely matter, to help organizations to be data-driven.
+Highly driven data engineer, AWS certified solutions architect and certified developer with +6 years of experience creating, implementing and improving data solutions across organizations to have clean data ready  to be used for decision making or operational systems, in a timely matter, to help organizations to be data-driven.
 
 Love to solve problems through code and I'm always looking to lear something new. Curious about technology and the lastest trends. Team player and I really love to help people with my work or experience.
 
