@@ -1,6 +1,6 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
-show_downloads: true
+show_downloads: false
 title: Douglas Figueroa
-description: Data engineer, AWS Certified Solutions Architect, Python and SQL dev.
+description: Data engineer with +6 years of experience, AWS Certified Solutions Architect, Python and SQL dev, Cloud enthusiast.
